@@ -15,4 +15,4 @@ variable de salida, la calidad asignada a dicho vino. Los datos se descargaron d
 
 [Reporte en formato html](./A1.4%20611471.html) 
 
-<a href="A1.4%20Vino%$20Tinto.csv" download>Base de datos</a>  
+<a href="A1.4%20Vino%20Tinto.csv" download>Base de datos</a>  
